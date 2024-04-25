@@ -32,7 +32,8 @@
 
 ### 👉 Frameworks
 <p align="left"> 
-
+    
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,express&theme=light)](https://skillicons.dev)
 
 </p>
 
